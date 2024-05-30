@@ -17,7 +17,7 @@ Types of Prompts:
 Describe different types of prompts (e.g., open-ended prompts, instructional prompts). How does the type of prompt influence the AI model's response?
 Prompt Tuning:
 
-What is prompt tuning, and how does it differ from traditional fine-tuning methods? Provide a scenario where prompt tuning would be advantageous.
+what is prompt tuning, and how does it differ from traditional fine-tuning methods? Provide a scenario where prompt tuning would be advantageous.
 Role of Context in Prompts:
 
 Explain the role of context in designing effective prompts. How can adding or omitting context affect the output of an AI model?
@@ -43,3 +43,4 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
+
